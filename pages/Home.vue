@@ -154,47 +154,47 @@ export default {
         }
       ],
       banners: [
-        {
-          slot: 'banner-A',
-          subtitle: 'Dresses',
-          title: 'Cocktail & Party',
-          description:
-            'Find stunning women\'s cocktail dresses and party dresses. Stand out in lace and metallic cocktail dresses from all your favorite brands.',
-          buttonText: 'Shop now',
-          image: {
-            mobile: this.$config.theme.home.bannerA.image.mobile,
-            desktop: this.$config.theme.home.bannerA.image.desktop
-          },
-          class: 'sf-banner--slim desktop-only',
-          link: this.$config.theme.home.bannerA.link
-        },
-        {
-          slot: 'banner-B',
-          subtitle: 'Dresses',
-          title: 'Linen Dresses',
-          description:
-            'Find stunning women\'s cocktail dresses and party dresses. Stand out in lace and metallic cocktail dresses from all your favorite brands.',
-          buttonText: 'Shop now',
-          image: this.$config.theme.home.bannerB.image,
-          class: 'sf-banner--slim banner-central desktop-only',
-          link: this.$config.theme.home.bannerB.link
-        },
-        {
-          slot: 'banner-C',
-          subtitle: 'T-Shirts',
-          title: 'The Office Life',
-          image: this.$config.theme.home.bannerC.image,
-          class: 'sf-banner--slim banner__tshirt',
-          link: this.$config.theme.home.bannerC.link
-        },
-        {
-          slot: 'banner-D',
-          subtitle: 'Summer Sandals',
-          title: 'Eco Sandals',
-          image: this.$config.theme.home.bannerD.image,
-          class: 'sf-banner--slim',
-          link: this.$config.theme.home.bannerD.link
-        }
+        // {
+        //   slot: 'banner-A',
+        //   subtitle: 'Dresses',
+        //   title: 'Cocktail & Party',
+        //   description:
+        //     'Find stunning women\'s cocktail dresses and party dresses. Stand out in lace and metallic cocktail dresses from all your favorite brands.',
+        //   buttonText: 'Shop now',
+        //   image: {
+        //     mobile: this.$config.theme.home.bannerA.image.mobile,
+        //     desktop: this.$config.theme.home.bannerA.image.desktop
+        //   },
+        //   class: 'sf-banner--slim desktop-only',
+        //   link: this.$config.theme.home.bannerA.link
+        // },
+        // {
+        //   slot: 'banner-B',
+        //   subtitle: 'Dresses',
+        //   title: 'Linen Dresses',
+        //   description:
+        //     'Find stunning women\'s cocktail dresses and party dresses. Stand out in lace and metallic cocktail dresses from all your favorite brands.',
+        //   buttonText: 'Shop now',
+        //   image: this.$config.theme.home.bannerB.image,
+        //   class: 'sf-banner--slim banner-central desktop-only',
+        //   link: this.$config.theme.home.bannerB.link
+        // },
+        // {
+        //   slot: 'banner-C',
+        //   subtitle: 'T-Shirts',
+        //   title: 'The Office Life',
+        //   image: this.$config.theme.home.bannerC.image,
+        //   class: 'sf-banner--slim banner__tshirt',
+        //   link: this.$config.theme.home.bannerC.link
+        // },
+        // {
+        //   slot: 'banner-D',
+        //   subtitle: 'Summer Sandals',
+        //   title: 'Eco Sandals',
+        //   image: this.$config.theme.home.bannerD.image,
+        //   class: 'sf-banner--slim',
+        //   link: this.$config.theme.home.bannerD.link
+        // }
       ],
       products: [
         {
